@@ -4,5 +4,6 @@ public class PersonAssignmentTest {
         System.out.println("Full Name: " +p.getfullName());
         System.out.println("Old address: " +p.getAddress());
         System.out.println("New address: " +p.changeAddress("King street, Toronto"));
+        System.out.println("Hello");
         }
 }
